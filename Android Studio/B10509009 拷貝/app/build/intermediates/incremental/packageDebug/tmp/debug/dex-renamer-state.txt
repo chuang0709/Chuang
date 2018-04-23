@@ -1,7 +1,0 @@
-#Tue Apr 17 20:35:15 CST 2018
-base.0=/Users/chunchengchuang/Downloads/ud851-Exercises-student/Lesson04a-Starting-New-Activities/T04a.02-Solution-StartNewActivity/B10509009/app/build/intermediates/transforms/dexMerger/debug/11
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/Users/chunchengchuang/Downloads/ud851-Exercises-student/Lesson04a-Starting-New-Activities/T04a.02-Solution-StartNewActivity/B10509009/app/build/intermediates/transforms/dexMerger/debug/12
